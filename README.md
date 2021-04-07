@@ -1,3 +1,5 @@
 # hello-world
 created following this guide: https://guides.github.com/activities/hello-world/
-This is the first branche of the main wich will soon me merged 
+This was the first branch witch has already been merged
+This is the second try
+Just to make sure I understand the mechanism
